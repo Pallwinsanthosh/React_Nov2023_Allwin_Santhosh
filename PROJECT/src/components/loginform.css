@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "CustomFont";
+}
+.cover
+{
+    width: 300px;
+    height: 450px;
+    justify-content: space-around;
+    border-radius: 1cm;
+   align-items: center;
+   margin-left: 450px;
+   margin-top: 80px;
+   background-color: antiquewhite;
+}
+.al
+{
+    color:black;
+}
+.all
+{
+    color: white;
+    background-color: cornflowerblue;
+}
+#google{
+    height: 25px;
+    margin: 7px;
+}
+#fb{
+    height: 33px;
+    margin: 4px;
+    margin-left: 6px;
+    margin-right: 0;
+}
+/* .altersignin div
+{
+    background-color: white;
+    height: 40px;
+    width: 175px;
+   margin: 20px 17px;
+  display: flex;
+    border-radius: 15px;
+    float: left;
+} */
+.bl
+{
+    
+    background-color:blue;
+    display: flex;
+    
+}
+.all{
+    width: 1200px;
+    height: 200px;
+    background-color: black;
+}
+.bll{
+    width: 1200px;
+    height: 200px;
+    background-color:blueviolet;
+}
